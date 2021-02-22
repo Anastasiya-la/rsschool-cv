@@ -13,3 +13,12 @@ HTML & CSS
 JavaScript
 Git
 VS code
+
+### Code
+```
+	<div class="gallery">
+				<img src="img/img1.jpg" alt="Event photo 1">
+				<img src="img/img2.jpg" alt="Event photo 2">
+				<img src="img/img3.jpg" alt="Event photo 3">
+			</div>
+```				

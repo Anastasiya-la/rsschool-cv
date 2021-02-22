@@ -22,3 +22,15 @@ VS code
 				<img src="img/img3.jpg" alt="Event photo 3">
 			</div>
 ```				
+
+### Work Experience
+
+### Education
+| DATE | EDUCATION |
+| ------ | ------ |
+| 2017-2021 | Customs Affair at Belarusian National Technical University |
+| 2020-2021 (expected) | The Complete 2021 Web Development Bootcamp  |
+| 2020-2021 (expected)| Trainings at HTML Academy |
+
+### English Language
+A2 – Pre-Intermediate

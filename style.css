@@ -81,7 +81,11 @@ li::before {
   content: "•";
   padding-right: 5px;
 }
+time {
+  font-weight: 600;
+}
 #footer {
   text-align: center;
   border-radius: 10px;
 }
+
